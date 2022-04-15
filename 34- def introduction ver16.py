@@ -20,3 +20,5 @@ def average_calculator(list_exp):
 user_input_words = list_builder()
 
 print(average_calculator(user_input_words))
+
+#محاسبه گر میانگین با استفاده از تعریف تابع
